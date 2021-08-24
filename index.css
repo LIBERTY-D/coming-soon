@@ -82,7 +82,7 @@ body {
 }
 input {
   padding: 0.3rem;
-  width: 70%;
+  width: 100%;
   margin: 0.3rem 0;
   outline: none;
   border: none;
@@ -90,7 +90,7 @@ input {
   color: wheat;
 }
 .margin-line {
-  max-width: 70%;
+  max-width: 100%;
   margin: auto;
   height: 0.1px;
   position: relative;
